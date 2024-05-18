@@ -11,3 +11,5 @@ root.render(
     <App />
   </BrowserRouter>
 );
+
+/*Browser router Link Routes Route */
